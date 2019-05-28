@@ -1,0 +1,11 @@
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.deps.json
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.json
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.dev.json
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.pdb
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csprojAssemblyReference.cache
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csproj.CoreCompileInputs.cache
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfoInputs.cache
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfo.cs
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/jamekaechols/workspace/csharp/ch1/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.pdb
